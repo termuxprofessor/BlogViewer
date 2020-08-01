@@ -20,12 +20,15 @@
  [![Alt text](https://1.bp.blogspot.com/-rdi8kcWM5bw/XyVHSyYx0KI/AAAAAAAAAOE/G5y9xvtgEhwmjJ6niVUWSQ4-VMmnMaORwCLcBGAsYHQ/s2048/Picture_20200719_155149686.jpg)](https://youtu.be/vVOadS6ercM)
   
  ## :octocat:Credits:
-* Termux Professor: [Youtuber | Developer](https://www.youtube.com/c/TermuxProfessor
+* Termux Professor: [Youtuber | Developer](https://www.youtube.com/c/TermuxProfessor)
 
  ## Support !
   Email address: termuxprofessor@gmail.com  for more details.
+
   Youtube:[Termux Professor](https://www.youtube.com/c/TermuxProfessor)
+
   Website:[Get Code](https://www.getredeemcode.com)
+
   Telegarm Group:[Termux -Discussion Group](https://t.me/termuxqueenyt)
 
 
