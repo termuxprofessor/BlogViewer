@@ -25,7 +25,7 @@
  ## Support !
   Email address: termuxprofessor@gmail.com  for more details.
 
-  Youtube:[Termux Professor](https://www.youtube.com/c/TermuxProfessor)
+  Youtube:[Termux Professor](https://www.youtube.com/c/TermuxProfessorYT)
 
   Website:[Get Code](https://www.getredeemcode.com)
 
